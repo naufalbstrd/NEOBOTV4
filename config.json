@@ -1,0 +1,16 @@
+{
+  "SmBoL1": "ﾒ",
+  "SmBoL2": ">",
+  "ownerNumber": ["6285742235361@s.whatsapp.net"],
+  "ownerName": ["NAUFAL MR"],
+  "botName": "Sky Bot",
+  "sessionName": "session",
+  "pathimg": "./storage/media/neobot.png",
+  "FakeNya": "SKY-TEAM ID © 2021",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
